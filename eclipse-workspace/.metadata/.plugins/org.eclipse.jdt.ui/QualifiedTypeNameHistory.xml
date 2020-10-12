@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="jade.core.behaviours.Behaviour"/>
+    <fullyQualifiedTypeName name="jade.core.behaviours.WakerBehaviour"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="jade.core.AID"/>
+    <fullyQualifiedTypeName name="jade.domain.FIPAAgentManagement.DFAgentDescription"/>
+    <fullyQualifiedTypeName name="jade.domain.DFService"/>
+    <fullyQualifiedTypeName name="jade.domain.FIPAAgentManagement.ServiceDescription"/>
+    <fullyQualifiedTypeName name="jade.domain.FIPAException"/>
+    <fullyQualifiedTypeName name="examples.behaviours.TimeAgent"/>
+    <fullyQualifiedTypeName name="examples.behaviours.FSMAgent"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="examples.behaviours.ComplexBehaviourAgent"/>
+    <fullyQualifiedTypeName name="jade.core.Profile"/>
+    <fullyQualifiedTypeName name="jade.core.ProfileImpl"/>
+    <fullyQualifiedTypeName name="jade.wrapper.ContainerController"/>
+    <fullyQualifiedTypeName name="jade.wrapper.AgentController"/>
+    <fullyQualifiedTypeName name="examples.bookTrading.BookBuyerAgent"/>
+    <fullyQualifiedTypeName name="examples.bookTrading.BookSellerAgent"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,20 @@
+INDEX VERSION 1.131+/Users/lukeblack/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core
+1514931729.index
+1417601568.index
+283167147.index
+1128060475.index
+3537632868.index
+1910327234.index
+1587159763.index
+823168511.index
+1339662388.index
+1043194076.index
+3660941185.index
+4238714942.index
+3919900206.index
+3587101537.index
+3304288020.index
+1271342938.index
+2860988606.index
+1927060841.index
+2776921492.index
